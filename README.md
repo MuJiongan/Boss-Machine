@@ -1,7 +1,11 @@
 # Boss Machine
 
-to run the app, simply open **index.html**
+to run the app, simply run commands:
+1. `npm install`
+2. `node server.js`
 
-The starter code (styling and tests) is provided by codecademy
+then open **index.html**
+
+The starter code (styling, tests and db) is provided by codecademy
 
 
